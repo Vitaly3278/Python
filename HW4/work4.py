@@ -1,3 +1,4 @@
+# Напишите функцию для транспонирования матрицы
 def transpose_matrix(matrix, n, m):
     transposed_matrix = [[0] * n for i in range(m)]
     for i, row in enumerate(matrix):
@@ -6,31 +7,25 @@ def transpose_matrix(matrix, n, m):
     return transposed_matrix
 
 
-def main():
-    n, m = map(int, input().split())
-    matrix = []
-    for i in range(n):
-        matrix.append(input().split())
-    for row in transpose_matrix(matrix, n, m):
-        print(*row)
+n, m = map(int, input().split())
+matrix = []
+for i in range(n):
+    matrix.append(input().split())
+for row in transpose_matrix(matrix, n, m):
+    print(*row)
 
-
-# if __name__ == '__main__':
-#     main()
 
 # Напишите функцию принимающую на вход только ключевые параметры и возвращающую словарь,
 # где ключ — значение переданного аргумента, а значение — имя аргумента.
 # Если ключ не хешируем, используйте его строковое представление.
 
-def dz_2(**kwargs: dict) -> dict:
+def func(**kwargs: dict) -> dict:
     return {x: v for v, x in kwargs.items()}
 
-# Возьмите задачу о банкомате из семинара 2. Разбейте её
-# на отдельные операции — функции. Дополнительно сохраняйте
-# все операции поступления и снятия средств в список.
 
-#Возьмите задачу о банкомате из семинара 2. Разбейте её на отдельные операции — функции.
-#Дополнительно сохраняйте все операции поступления и снятия средств в список.
+
+# Возьмите задачу о банкомате из семинара 2. Разбейте её на отдельные операции — функции.
+# Дополнительно сохраняйте все операции поступления и снятия средств в список.
 
 
 summa = 0
@@ -118,8 +113,8 @@ def account_withdrawal() -> None | object:  # Снятие денег
             else:
                 replenish = int(replenish)
                 summa -= replenish + (30 if (s := ((
-                                                    replenish / 100) * percent))
-                                                < 30 else 600 if s > 600 else s)
+                                                           replenish / 100) * percent))
+                                            < 30 else 600 if s > 600 else s)
                 summa = f'{summa:.2f}'
                 summa = float(summa)
                 operation.setdefault('Снятие', []).append(replenish)
@@ -136,7 +131,7 @@ def account_withdrawal() -> None | object:  # Снятие денег
             else:
                 replenish = int(replenish)
                 summa -= replenish + (30 if (s := ((
-                                            replenish / 100) * percent))
+                                                           replenish / 100) * percent))
                                             < 30 else 600 if s > 600 else s)
                 summa = f'{summa:.2f}'
                 summa = float(summa)
