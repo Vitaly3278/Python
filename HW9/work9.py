@@ -40,14 +40,14 @@ def json_write(funk: Callable) -> Callable:
 
 def read_csv(funk: Callable) -> Callable:
     def wrapper(*args, **kwargs) -> list:
-        rez = []
+        res = []
         with open('result.csv', 'r', newline='',
                   encoding='utf-8') as reader_file:
             reader_ = csv.reader(reader_file, quoting=csv.QUOTE_NONNUMERIC)
             for row in reader_:
                 root = funk(*row)
-                rez.append(root)
-        return rez
+                res.append(root)
+        return res
 
     return wrapper
 
