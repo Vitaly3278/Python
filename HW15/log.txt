@@ -1,0 +1,264 @@
+INFO:root:.git | Directory | Parent Directory: Python
+INFO:root:.COMMIT_EDITMSG | File | Extension: .swp | Parent Directory: .git
+INFO:root:COMMIT_EDITMSG | File | Extension:  | Parent Directory: .git
+INFO:root:config | File | Extension:  | Parent Directory: .git
+INFO:root:description | File | Extension:  | Parent Directory: .git
+INFO:root:FETCH_HEAD | File | Extension:  | Parent Directory: .git
+INFO:root:HEAD | File | Extension:  | Parent Directory: .git
+INFO:root:hooks | Directory | Parent Directory: .git
+INFO:root:applypatch-msg | File | Extension: .sample | Parent Directory: hooks
+INFO:root:commit-msg | File | Extension: .sample | Parent Directory: hooks
+INFO:root:fsmonitor-watchman | File | Extension: .sample | Parent Directory: hooks
+INFO:root:post-update | File | Extension: .sample | Parent Directory: hooks
+INFO:root:pre-applypatch | File | Extension: .sample | Parent Directory: hooks
+INFO:root:pre-commit | File | Extension: .sample | Parent Directory: hooks
+INFO:root:pre-merge-commit | File | Extension: .sample | Parent Directory: hooks
+INFO:root:pre-push | File | Extension: .sample | Parent Directory: hooks
+INFO:root:pre-rebase | File | Extension: .sample | Parent Directory: hooks
+INFO:root:pre-receive | File | Extension: .sample | Parent Directory: hooks
+INFO:root:prepare-commit-msg | File | Extension: .sample | Parent Directory: hooks
+INFO:root:push-to-checkout | File | Extension: .sample | Parent Directory: hooks
+INFO:root:sendemail-validate | File | Extension: .sample | Parent Directory: hooks
+INFO:root:update | File | Extension: .sample | Parent Directory: hooks
+INFO:root:index | File | Extension:  | Parent Directory: .git
+INFO:root:info | Directory | Parent Directory: .git
+INFO:root:exclude | File | Extension:  | Parent Directory: info
+INFO:root:logs | Directory | Parent Directory: .git
+INFO:root:HEAD | File | Extension:  | Parent Directory: logs
+INFO:root:refs | Directory | Parent Directory: logs
+INFO:root:heads | Directory | Parent Directory: refs
+INFO:root:main | File | Extension:  | Parent Directory: heads
+INFO:root:remotes | Directory | Parent Directory: refs
+INFO:root:origin | Directory | Parent Directory: remotes
+INFO:root:main | File | Extension:  | Parent Directory: origin
+INFO:root:objects | Directory | Parent Directory: .git
+INFO:root:01 | Directory | Parent Directory: objects
+INFO:root:7205996bd497a008bb6f0a50ff52ae4b79388a | File | Extension:  | Parent Directory: 01
+INFO:root:07 | Directory | Parent Directory: objects
+INFO:root:19be99c7f74792632f630a312a15d06a83e732 | File | Extension:  | Parent Directory: 07
+INFO:root:0f | Directory | Parent Directory: objects
+INFO:root:53550726326a8c17e49a83c580a933ab9a24d1 | File | Extension:  | Parent Directory: 0f
+INFO:root:7f81a49066381464ffc346e838540dcbcb7b8b | File | Extension:  | Parent Directory: 0f
+INFO:root:10 | Directory | Parent Directory: objects
+INFO:root:5ce2da2d6447d11dfe32bfb846c3d5b199fc99 | File | Extension:  | Parent Directory: 10
+INFO:root:f760cc10265bcc9d2113127f4c1b9d62e4be7d | File | Extension:  | Parent Directory: 10
+INFO:root:11 | Directory | Parent Directory: objects
+INFO:root:4350dba197fec16913b567255f409882e6ede5 | File | Extension:  | Parent Directory: 11
+INFO:root:19 | Directory | Parent Directory: objects
+INFO:root:7c6ef101a7a51fa7922a5768dbfac6a0386e12 | File | Extension:  | Parent Directory: 19
+INFO:root:22 | Directory | Parent Directory: objects
+INFO:root:350889e48c86f44a4fc0c66dee7ecdac7b5cf5 | File | Extension:  | Parent Directory: 22
+INFO:root:26 | Directory | Parent Directory: objects
+INFO:root:d33521af10bcc7fd8cea344038eaaeb78d0ef5 | File | Extension:  | Parent Directory: 26
+INFO:root:27 | Directory | Parent Directory: objects
+INFO:root:b57fa41558b05d1a178a31b243e0123f8be018 | File | Extension:  | Parent Directory: 27
+INFO:root:2c | Directory | Parent Directory: objects
+INFO:root:140992ca7ad22d4d5fcceda8e5c2b597fce119 | File | Extension:  | Parent Directory: 2c
+INFO:root:91c343caf67850beed2fa8d4c1fb9a6a386629 | File | Extension:  | Parent Directory: 2c
+INFO:root:30 | Directory | Parent Directory: objects
+INFO:root:97039ad2ba9f1b53aba388a2faeb51f39ce691 | File | Extension:  | Parent Directory: 30
+INFO:root:36 | Directory | Parent Directory: objects
+INFO:root:cc15dd0e4a96374f3ccbc3978538545610be09 | File | Extension:  | Parent Directory: 36
+INFO:root:37 | Directory | Parent Directory: objects
+INFO:root:a0f93ce4b0aacfbc32c33f1366152c5edffbf1 | File | Extension:  | Parent Directory: 37
+INFO:root:38 | Directory | Parent Directory: objects
+INFO:root:b8263ce5e67a92edefa0d41d89b7cc2b517d95 | File | Extension:  | Parent Directory: 38
+INFO:root:42 | Directory | Parent Directory: objects
+INFO:root:90ba4ec927e55de7fd2562dc28c96d3c06ceca | File | Extension:  | Parent Directory: 42
+INFO:root:43 | Directory | Parent Directory: objects
+INFO:root:0c6f44f1fe803baaf1155259388803e15c92a6 | File | Extension:  | Parent Directory: 43
+INFO:root:45 | Directory | Parent Directory: objects
+INFO:root:7e0304ee8197acc17ba64864279e02c5218d80 | File | Extension:  | Parent Directory: 45
+INFO:root:95fe123946c1b596f233cf64f2f8b1c5c9f14a | File | Extension:  | Parent Directory: 45
+INFO:root:46 | Directory | Parent Directory: objects
+INFO:root:4499020592b63ed29bad72c8eae3d66e78504c | File | Extension:  | Parent Directory: 46
+INFO:root:51 | Directory | Parent Directory: objects
+INFO:root:1fd3cd3e06a41fd6ec0eccf79eba2a59cb3bdc | File | Extension:  | Parent Directory: 51
+INFO:root:53 | Directory | Parent Directory: objects
+INFO:root:907bd2785f6264dbbef404c0ef088c13a1e218 | File | Extension:  | Parent Directory: 53
+INFO:root:54 | Directory | Parent Directory: objects
+INFO:root:094ceb9cde19c944d06c0b2f12e77ba43a3eb5 | File | Extension:  | Parent Directory: 54
+INFO:root:56 | Directory | Parent Directory: objects
+INFO:root:2a160b8aaf265b8ddc3fc3692c88a544ae8bcc | File | Extension:  | Parent Directory: 56
+INFO:root:7b4f4a687b97ff7085645b10ce0d9a4de27c9b | File | Extension:  | Parent Directory: 56
+INFO:root:58 | Directory | Parent Directory: objects
+INFO:root:d79195dc254b158f7e5e15afde9faa9d6a4f50 | File | Extension:  | Parent Directory: 58
+INFO:root:5d | Directory | Parent Directory: objects
+INFO:root:2d673d066fdb43d6117b3225a5199b8269d590 | File | Extension:  | Parent Directory: 5d
+INFO:root:64 | Directory | Parent Directory: objects
+INFO:root:a8910dae3e10b800f82ee14c10ff5c0bb8a825 | File | Extension:  | Parent Directory: 64
+INFO:root:6f | Directory | Parent Directory: objects
+INFO:root:4dffceb49b376e8723537c13619d6b0788ea1c | File | Extension:  | Parent Directory: 6f
+INFO:root:bfbb6231e4606352ead01c652c5d750bd88fe8 | File | Extension:  | Parent Directory: 6f
+INFO:root:72 | Directory | Parent Directory: objects
+INFO:root:9fec4eea4997cbaa173210b3c422a480f5b9aa | File | Extension:  | Parent Directory: 72
+INFO:root:ad20571444033fab409350ef9e7a794ead9eab | File | Extension:  | Parent Directory: 72
+INFO:root:7b | Directory | Parent Directory: objects
+INFO:root:69c3147457df1b43c91988f04aec9384220f3d | File | Extension:  | Parent Directory: 7b
+INFO:root:7e | Directory | Parent Directory: objects
+INFO:root:31250f3d618ffdfe9e904c06cf43553a15ddd0 | File | Extension:  | Parent Directory: 7e
+INFO:root:85 | Directory | Parent Directory: objects
+INFO:root:02270c2e2384882d9cf6021dada3af5d62b649 | File | Extension:  | Parent Directory: 85
+INFO:root:88 | Directory | Parent Directory: objects
+INFO:root:8dc631561ebcc5fe74661851aacec823ff2c9c | File | Extension:  | Parent Directory: 88
+INFO:root:8c | Directory | Parent Directory: objects
+INFO:root:6e6c195c7c608d082e39f9c78bdb426050e21e | File | Extension:  | Parent Directory: 8c
+INFO:root:8f | Directory | Parent Directory: objects
+INFO:root:9d6cd65bf5db1874036a1e88f2dc3a58764655 | File | Extension:  | Parent Directory: 8f
+INFO:root:92 | Directory | Parent Directory: objects
+INFO:root:305d64b5c1fea96ce056a6f549e1451db385cf | File | Extension:  | Parent Directory: 92
+INFO:root:93 | Directory | Parent Directory: objects
+INFO:root:4006152609111ce6e52c6f4705e66d1d5acf52 | File | Extension:  | Parent Directory: 93
+INFO:root:94 | Directory | Parent Directory: objects
+INFO:root:18d80bc393ff257e9cedbd1304bed260e89ba7 | File | Extension:  | Parent Directory: 94
+INFO:root:a25f7f4cb416c083d265558da75d457237d671 | File | Extension:  | Parent Directory: 94
+INFO:root:96 | Directory | Parent Directory: objects
+INFO:root:fc7bba6549173a0d706d10b7dd842ed439fe55 | File | Extension:  | Parent Directory: 96
+INFO:root:97 | Directory | Parent Directory: objects
+INFO:root:824ec9b0149e48c91dce4fee530335b327c686 | File | Extension:  | Parent Directory: 97
+INFO:root:98 | Directory | Parent Directory: objects
+INFO:root:900824c9253aafcf184f733765adc54f1cc36e | File | Extension:  | Parent Directory: 98
+INFO:root:98025d1f4f82f90e4275759e631c4ada8dfe85 | File | Extension:  | Parent Directory: 98
+INFO:root:b7ea40bec86ea038737bfa4f45f16a9c1dd9ed | File | Extension:  | Parent Directory: 98
+INFO:root:9a | Directory | Parent Directory: objects
+INFO:root:30cb86a8728f7ce2a633f536483b874691e6b1 | File | Extension:  | Parent Directory: 9a
+INFO:root:9b | Directory | Parent Directory: objects
+INFO:root:6fb84505a774bf9cbfc7779045bf711e243ac6 | File | Extension:  | Parent Directory: 9b
+INFO:root:9c | Directory | Parent Directory: objects
+INFO:root:59f117d270ce0e77fb879acc1189a555b5fc53 | File | Extension:  | Parent Directory: 9c
+INFO:root:a0 | Directory | Parent Directory: objects
+INFO:root:55d198a94a6e7f96616afc06a246c72f2f7c7c | File | Extension:  | Parent Directory: a0
+INFO:root:a2 | Directory | Parent Directory: objects
+INFO:root:1c94d6c2ac4fdba0cbf71b342974ad16b2225b | File | Extension:  | Parent Directory: a2
+INFO:root:a8 | Directory | Parent Directory: objects
+INFO:root:275cf60ba6b5c5c9363106a2e647e00afea75f | File | Extension:  | Parent Directory: a8
+INFO:root:a9 | Directory | Parent Directory: objects
+INFO:root:71a2c93136ccb7f8094a2783d905d33dff9163 | File | Extension:  | Parent Directory: a9
+INFO:root:ba | Directory | Parent Directory: objects
+INFO:root:71d442d54fbda8d7d0d4edd12f91529d21c20c | File | Extension:  | Parent Directory: ba
+INFO:root:bb | Directory | Parent Directory: objects
+INFO:root:11f68905b696d0dde70c1650e175eac87d5ae6 | File | Extension:  | Parent Directory: bb
+INFO:root:504ae3fbabb297e9e6f20203db55e4dad5ef8f | File | Extension:  | Parent Directory: bb
+INFO:root:bc | Directory | Parent Directory: objects
+INFO:root:fbdea704248d26f837b3a3af53903941e54457 | File | Extension:  | Parent Directory: bc
+INFO:root:bd | Directory | Parent Directory: objects
+INFO:root:21e309e798396d3b19fd7cd7e53050e72c2d7f | File | Extension:  | Parent Directory: bd
+INFO:root:4a3f0c97990992a1c2cca94095c9599b53b7b8 | File | Extension:  | Parent Directory: bd
+INFO:root:c2 | Directory | Parent Directory: objects
+INFO:root:b62c7d08c4fff0546e481f2aa10ae92fa5748f | File | Extension:  | Parent Directory: c2
+INFO:root:c4 | Directory | Parent Directory: objects
+INFO:root:7d2643613f579ce4ace035c0c9c8867a9d59bd | File | Extension:  | Parent Directory: c4
+INFO:root:c5 | Directory | Parent Directory: objects
+INFO:root:894bdb02f2c82f0ba47c93e6247c99338b2c92 | File | Extension:  | Parent Directory: c5
+INFO:root:c6 | Directory | Parent Directory: objects
+INFO:root:e2a87b08df86394b9127e4868927a4aabacb9b | File | Extension:  | Parent Directory: c6
+INFO:root:cd | Directory | Parent Directory: objects
+INFO:root:a07be5e6d9f25aca61900105cf90f2f61a5daf | File | Extension:  | Parent Directory: cd
+INFO:root:af8344f3ce1749ef7d3cfff0f71b3ae7d0ac1f | File | Extension:  | Parent Directory: cd
+INFO:root:cf | Directory | Parent Directory: objects
+INFO:root:ea1bbfc0130c685436f2b13823de1f4fc75a1c | File | Extension:  | Parent Directory: cf
+INFO:root:d0 | Directory | Parent Directory: objects
+INFO:root:876a78d06ac03b5d78c8dcdb95570281c6f1d6 | File | Extension:  | Parent Directory: d0
+INFO:root:d1 | Directory | Parent Directory: objects
+INFO:root:638f49696dd0f80d2d84dfb8221dab2f5a0113 | File | Extension:  | Parent Directory: d1
+INFO:root:f7c1fa8390229f8a93a7115faad7fee3cff247 | File | Extension:  | Parent Directory: d1
+INFO:root:d5 | Directory | Parent Directory: objects
+INFO:root:e00cc0d3c4417a5efb1e7a2a8f1c66035f0be7 | File | Extension:  | Parent Directory: d5
+INFO:root:d8 | Directory | Parent Directory: objects
+INFO:root:66398cdfe3b9e7f3e31da032670508e48cea14 | File | Extension:  | Parent Directory: d8
+INFO:root:e1 | Directory | Parent Directory: objects
+INFO:root:62d99d07b37f66d2d60ae30558fd2ee8248b41 | File | Extension:  | Parent Directory: e1
+INFO:root:84075940da56218e2f2505cdc34ae82ea5d3ad | File | Extension:  | Parent Directory: e1
+INFO:root:e2 | Directory | Parent Directory: objects
+INFO:root:88c5f7b2e754169464852a66630a1b72519642 | File | Extension:  | Parent Directory: e2
+INFO:root:e4 | Directory | Parent Directory: objects
+INFO:root:e71ebbda6134cf59597c615a577b0e9e006653 | File | Extension:  | Parent Directory: e4
+INFO:root:fb04e8e5b07b4c391ab6a2c757720d74ade56c | File | Extension:  | Parent Directory: e4
+INFO:root:e5 | Directory | Parent Directory: objects
+INFO:root:64c9cfb2a935a332b319c304abcae0c06b4661 | File | Extension:  | Parent Directory: e5
+INFO:root:e6 | Directory | Parent Directory: objects
+INFO:root:5fa3a98ee171983973bac787f5d7b2690a5069 | File | Extension:  | Parent Directory: e6
+INFO:root:9de29bb2d1d6434b8b29ae775ad8c2e48c5391 | File | Extension:  | Parent Directory: e6
+INFO:root:f88b824f628a77ae681b0b11bd2491be4119de | File | Extension:  | Parent Directory: e6
+INFO:root:ea | Directory | Parent Directory: objects
+INFO:root:5f3d539473d5f8e95b90e42869ea09bace5b69 | File | Extension:  | Parent Directory: ea
+INFO:root:eb | Directory | Parent Directory: objects
+INFO:root:c6fa777ecb7fab1159a0b0e84bcbc92d1e1ed7 | File | Extension:  | Parent Directory: eb
+INFO:root:ec | Directory | Parent Directory: objects
+INFO:root:061c3808535e3bcdf13271b5fdf7d9253a29de | File | Extension:  | Parent Directory: ec
+INFO:root:115fd3cf527efaba588fd5536f64ad7eb3aa29 | File | Extension:  | Parent Directory: ec
+INFO:root:e47f9eb6d397f878c22551a4cd94ea9275b71b | File | Extension:  | Parent Directory: ec
+INFO:root:f0 | Directory | Parent Directory: objects
+INFO:root:5fb85e65a421d29007d438dd256f8be360cafb | File | Extension:  | Parent Directory: f0
+INFO:root:f6 | Directory | Parent Directory: objects
+INFO:root:259663ee6339509807fbf4c28ba9e0a0c876e2 | File | Extension:  | Parent Directory: f6
+INFO:root:b78d648ff942b2131beb3733b8fc60474f5e85 | File | Extension:  | Parent Directory: f6
+INFO:root:fb | Directory | Parent Directory: objects
+INFO:root:3394c36a2f356558fbe5d93955dd284775de3d | File | Extension:  | Parent Directory: fb
+INFO:root:5aa54a49d12267504cd5de85033b83ce1b22d4 | File | Extension:  | Parent Directory: fb
+INFO:root:fc | Directory | Parent Directory: objects
+INFO:root:425cf6ec27f4a5bdf8e09202254db127337399 | File | Extension:  | Parent Directory: fc
+INFO:root:info | Directory | Parent Directory: objects
+INFO:root:pack | Directory | Parent Directory: objects
+INFO:root:ORIG_HEAD | File | Extension:  | Parent Directory: .git
+INFO:root:refs | Directory | Parent Directory: .git
+INFO:root:heads | Directory | Parent Directory: refs
+INFO:root:main | File | Extension:  | Parent Directory: heads
+INFO:root:remotes | Directory | Parent Directory: refs
+INFO:root:origin | Directory | Parent Directory: remotes
+INFO:root:main | File | Extension:  | Parent Directory: origin
+INFO:root:tags | Directory | Parent Directory: refs
+INFO:root:.idea | Directory | Parent Directory: Python
+INFO:root:.gitignore | File | Extension:  | Parent Directory: .idea
+INFO:root:inspectionProfiles | Directory | Parent Directory: .idea
+INFO:root:profiles_settings | File | Extension: .xml | Parent Directory: inspectionProfiles
+INFO:root:misc | File | Extension: .xml | Parent Directory: .idea
+INFO:root:modules | File | Extension: .xml | Parent Directory: .idea
+INFO:root:Python | File | Extension: .iml | Parent Directory: .idea
+INFO:root:vcs | File | Extension: .xml | Parent Directory: .idea
+INFO:root:workspace | File | Extension: .xml | Parent Directory: .idea
+INFO:root:HW1 | Directory | Parent Directory: Python
+INFO:root:work1 | File | Extension: .py | Parent Directory: HW1
+INFO:root:work2 | File | Extension: .py | Parent Directory: HW1
+INFO:root:work3 | File | Extension: .py | Parent Directory: HW1
+INFO:root:HW10 | Directory | Parent Directory: Python
+INFO:root:animal | File | Extension: .py | Parent Directory: HW10
+INFO:root:ATM | File | Extension: .py | Parent Directory: HW10
+INFO:root:HW11 | Directory | Parent Directory: Python
+INFO:root:matrix | File | Extension: .py | Parent Directory: HW11
+INFO:root:HW12 | Directory | Parent Directory: Python
+INFO:root:students | File | Extension: .py | Parent Directory: HW12
+INFO:root:subjects | File | Extension: .csv | Parent Directory: HW12
+INFO:root:HW13 | Directory | Parent Directory: Python
+INFO:root:work1 | File | Extension: .py | Parent Directory: HW13
+INFO:root:work2 | File | Extension: .py | Parent Directory: HW13
+INFO:root:HW14 | Directory | Parent Directory: Python
+INFO:root:trianfle_doctest | File | Extension: .py | Parent Directory: HW14
+INFO:root:Triangle | File | Extension: .md | Parent Directory: HW14
+INFO:root:triangle | File | Extension: .py | Parent Directory: HW14
+INFO:root:triangle_pytest | File | Extension: .py | Parent Directory: HW14
+INFO:root:triangle_unittest | File | Extension: .py | Parent Directory: HW14
+INFO:root:HW15 | Directory | Parent Directory: Python
+INFO:root:final | File | Extension: .py | Parent Directory: HW15
+INFO:root:log | File | Extension: .txt | Parent Directory: HW15
+INFO:root:HW2 | Directory | Parent Directory: Python
+INFO:root:work1 | File | Extension: .py | Parent Directory: HW2
+INFO:root:work2 | File | Extension: .py | Parent Directory: HW2
+INFO:root:HW3 | Directory | Parent Directory: Python
+INFO:root:work | File | Extension: .py | Parent Directory: HW3
+INFO:root:HW4 | Directory | Parent Directory: Python
+INFO:root:work4 | File | Extension: .py | Parent Directory: HW4
+INFO:root:HW5 | Directory | Parent Directory: Python
+INFO:root:work5 | File | Extension: .py | Parent Directory: HW5
+INFO:root:HW6 | Directory | Parent Directory: Python
+INFO:root:work6 | File | Extension: .py | Parent Directory: HW6
+INFO:root:HW7 | Directory | Parent Directory: Python
+INFO:root:work7 | File | Extension: .py | Parent Directory: HW7
+INFO:root:HW8 | Directory | Parent Directory: Python
+INFO:root:work8 | File | Extension: .py | Parent Directory: HW8
+INFO:root:HW9 | Directory | Parent Directory: Python
+INFO:root:result | File | Extension: .csv | Parent Directory: HW9
+INFO:root:result | File | Extension: .json | Parent Directory: HW9
+INFO:root:work9 | File | Extension: .py | Parent Directory: HW9
+INFO:root:README | File | Extension: .md | Parent Directory: Python
+INFO:root:seminar | File | Extension: .py | Parent Directory: Python
